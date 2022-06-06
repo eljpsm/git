@@ -1,0 +1,10 @@
+[user]
+	name = "Elijah Passmore"
+	email = "eljpsm@eljpsm.com"
+[init]
+	defaultBranch = main
+[commit]
+	gpgSign = false
+[core]
+	editor = nvim
+	excludesfile = ~/.ignore
